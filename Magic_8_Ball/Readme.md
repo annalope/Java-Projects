@@ -1,1 +1,1 @@
-This project simulates a magic 8 ball. It takes in a yes or no question as inputand responds with one of twenty possible responses. The responses are randomly  decided. It then prints the result and prompts the user for a new input.  
+This project simulates a magic 8 ball. It takes in a yes or no question as input and responds with one of twenty possible responses. The responses are randomly  decided. It then prints the result and prompts the user for a new input.  
