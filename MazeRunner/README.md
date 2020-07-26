@@ -1,0 +1,1 @@
+This project allows the user to navigate through a maze. The user will enter either north, south, east, or west, and will work through to find the end. There is a png file called MazeRunner Map that is a picture of the full maze.
