@@ -1,0 +1,1 @@
+This is a calculator program that can perform addition, subtraction, multiplication, division, logarithmic functions, exponents, and basic trig functions. The user enters two numbers and an operation between them to calculate.
