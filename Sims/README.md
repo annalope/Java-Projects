@@ -1,0 +1,1 @@
+This is my recreation of the Sims game. It allows the user to build their town and fill it with residents, buildings and homes. The user has the option to create homes and residents and build businesses and new careers. The game can go on forever as long as you don't let your approval rating slip.
