@@ -1,0 +1,1 @@
+This project takes in a string input and prints out the result. It allows the user to switch which side of the conversation is sending messages through a menu at the top. To input, type in your message and hit the enter key. Pressing the send button will send the message out. 
