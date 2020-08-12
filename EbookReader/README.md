@@ -1,0 +1,1 @@
+This project takes a sample chapter of writing and displays it like it's part of an ebook. It has the ability to create bookmarks and jump to them. It also allows the user to switch the page and jump to the first or last page of the book.
