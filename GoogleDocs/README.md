@@ -1,0 +1,1 @@
+This is my recreation of Google Docs using a Java GUI. It allows the user to change the format of the text, insert special characters, copy, paste, download as a text file, and print to an available printer.
