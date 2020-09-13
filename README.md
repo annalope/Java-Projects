@@ -1,7 +1,9 @@
 My name is Anna and I am going to be a sophmore in 2020. These are the projects that I am making while I am learning Java and other programming topics.
 
-# projects
+# Java Projects
 Projects avaliable in this respository (created by me):
+
+- Flashcards: This is a flashcard program that allows the user to create, edit and study sets.
 
 - Google Docs: This is a Java GUI recreation of Google Docs that allows users to print and download customizable text files.
 
