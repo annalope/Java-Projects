@@ -1,0 +1,1 @@
+This calculator does simple operations like addition, subtraction, multiplication, and integer division. It can also display the history of the your calculations and do multiple operations at once. It uses simple left to right order of operations.
