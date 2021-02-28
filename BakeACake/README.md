@@ -1,0 +1,1 @@
+This is my Bake a Cake Java project. It allows the user to build a cake from scratch. They can customize the plate, frosting, three different batter layers, and up to three different toppings. All code and artwork done by me.
