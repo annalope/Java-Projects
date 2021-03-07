@@ -1,0 +1,1 @@
+This is my User Authentication System Java project. It allows a user to create an account with a username and password. The user can then sign in with that account, which saves after the program closes.
