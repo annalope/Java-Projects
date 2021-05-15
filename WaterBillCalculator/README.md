@@ -1,0 +1,1 @@
+This is my Monthly Water Bill Calculator program. It takes an input of the gallons of water used and the meter size and calculates the user's monthly water bill. It is based on prices quoted by Duke Energy.
